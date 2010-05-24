@@ -1,0 +1,4 @@
+A basic REST client in C#. Allows you to set the verb, request body and see the status code and all the headers on the response. 
+
+More info:
+http://jamescrisp.org/2008/08/08/simple-rest-client/
